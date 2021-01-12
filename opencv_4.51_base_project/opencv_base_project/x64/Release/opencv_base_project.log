@@ -1,7 +1,0 @@
-﻿  opencv_base_project.cpp
-opencv_base_project.cpp(31): warning C4305: “=”: 从“double”到“float”截断
-  正在生成代码
-  All 463 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  opencv_base_project.vcxproj -> C:\Users\lcings\Desktop\opencv_4.0re_base_project\x64\Release\opencv_base_project.exe
-  opencv_base_project.vcxproj -> C:\Users\lcings\Desktop\opencv_4.0re_base_project\x64\Release\opencv_base_project.pdb (Full PDB)
